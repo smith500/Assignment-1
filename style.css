@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.main-section {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+/* first intro section start */
+.main-section {
+  display: flex;
+}
+.img {
+  width: 80%;
+  margin-left: 100px;
+}
+
+.heading {
+  font-size: 3rem;
+}
+.subtitle {
+  font-size: 1.5rem;
+}
+.heading-color {
+  color: rgb(204, 29, 248);
+}
+.desc {
+  color: rgba(0, 0, 0, 0.726);
+  text-align: justify;
+}
+.btn {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, #06b36b, #ae0afa);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+/* first intro section end */
+
+/* secound-intro-section-start */
+.secound-intro-section {
+  display: flex;
+  margin-top: 100px;
+  width: 100%;
+}
+.sec-img {
+  width: 60%;
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+.right-side-margin {
+  margin-right: 100px;
+}
+.sec-heading {
+  font-size: 3.5rem;
+}
+
+/* secound intro section end */
+
+/* <!-- experience section start --> */
+.experience {
+  display: flex;
+  margin-left: 70px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.exp {
+  margin-left: 65px;
+  margin-top: 100px;
+  font-size: 7vh;
+}
+.exp-left-side-section {
+  border: 2px solid gray;
+  padding-bottom: 10px;
+  border: none;
+  padding: 20px;
+  border-left: 7px solid orangered;
+  border-radius: 15px;
+  border-top-right-radius: 70px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.exp-heading {
+  font-size: 2.5rem;
+  color: rgb(255, 123, 0);
+}
+.exp-span {
+  color: rgb(204, 29, 248);
+}
+.exp-sebtitle {
+  font-size: 1.5rem;
+  color: rgb(255, 123, 0);
+}
+.exp-desc {
+  text-align: justify;
+  color: rgba(0, 0, 0, 0.726);
+  width: 600px;
+}
+.exp-right-side-section {
+  border: 2px solid gray;
+  padding-bottom: 10px;
+  border: none;
+  padding: 20px;
+  border-left: 7px solid orangered;
+  border-radius: 15px;
+  border-top-right-radius: 70px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-left: 90px;
+}
+
+/* <!-- experience section end --> */
+
+/* <!-- footer section start --> */
+.ftr-sec {
+  margin-left: 45%;
+  margin-bottom: 25px;
+}
+/* <!-- footer section end --> */
+
+/* <!-- My bio section start --> */
+.bio-section {
+  margin-top: 200px;
+  display: flex;
+  width: 100%;
+}
+.bio-image {
+  width: 70%;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-left: 70px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+.bio-desc {
+  text-align: justify;
+  color: rgba(0, 0, 0, 0.733);
+  font-size: 20px;
+  margin-right: 50px;
+}
+.bio-subtitle {
+  font-size: 2rem;
+  color: rgb(255, 123, 0);
+}
+.bio-heading {
+  font-size: 3rem;
+  margin-right: 100px;
+}
+.bio-ancore {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #06b36b, #ae0afa);
+}
+/* <!-- My bio section end --> */
+
+/* <!-- portfolio section start --> */
+.portfolio {
+  display: flex;
+  width: 90%;
+  margin-top: 100px;
+}
+.portfolio-main {
+  margin-top: 200px;
+}
+.portfolio-hed {
+  margin-left: 740px;
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #06b36b, #ae0afa);
+}
+.card1 {
+  width: 80%;
+  height: 90%;
+  margin-left: 70px;
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card2 {
+  width: 80%;
+  height: 90%;
+  margin-left: 110px;
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card3 {
+  width: 80%;
+  height: 90%;
+  margin-left: 170px;
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+/* <!-- portfolio section end --> */
